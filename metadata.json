@@ -1,0 +1,6 @@
+{
+  "name": "Game Launcher",
+  "description": "Free, ad-free Game Launcher with live performance HUD, post-session reports, game insights, GFX hardware guide, Game Mode & reflex trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
